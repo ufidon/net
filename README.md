@@ -11,6 +11,28 @@ Online materials for CS220 - Network Fundamentals
 * [A usage example](https://www.stevejenkins.com/blog/2011/05/dell-powerconnect-5324-setup-tasks/)
 * [User manual](http://www.dell.com/support/home/us/en/04/product-support/product/powerconnect-5324/manuals)
 
+## Open source routers
+* [DD-Wrt](http://dd-wrt.com)
+* [OpenWrt](https://openwrt.org)
+
+## ARP softwares
+* [ARP Scannet](https://sourceforge.net/projects/arpscannet/)
+* [ARP AntiSpoofer](https://sourceforge.net/projects/arpantispoofer/)
+* [A list of ARP softwares](http://www.findbestopensource.com/tagged/arp?start=10)
+
+## BOOTP server
+* [BOOTPd server](http://bootpdnis.sourceforge.net/)
+
+
+## DHCP
+* [Open DHCP Server](http://dhcpserver.sourceforge.net/)
+* [Dual DHCP DNS Server](http://dhcp-dns-server.sourceforge.net/)
+* [A DHCP server for Windows](http://www.dhcpserver.de/cms/)
+* [A list of DHCP server softwares from wikipedia](https://en.wikipedia.org/wiki/Comparison_of_DHCP_server_software)
+
+## DNS
+
+* [A list of DNS server softwares from wikipedia](https://en.wikipedia.org/wiki/Comparison_of_DNS_server_software)
 
 # Application layer
 ## TFTP servers for Windows
@@ -25,10 +47,23 @@ Online materials for CS220 - Network Fundamentals
   * [SquirrelMail](http://squirrelmail.org)
   * [roundcube](https://roundcube.net/)
 
-## Network tools
+## Network analyzing tools
 * package capture:
   * [Win10pcap](http://www.win10pcap.org)
   * [Wireshark](https://www.wireshark.org/)
 * wireless network detection
   * [NetStumbler](http://www.stumbler.net/)
   * [Vistumbler](https://www.vistumbler.net/)
+  
+## Network monitoring and management tools
+* [Cacti](http://www.cacti.net)  
+* [Nagios](https://www.nagios.org/)
+* [Icinga](https://www.icinga.com/)
+* [Nedi](http://www.nedi.ch/)
+* [A list from wikipedia](https://en.wikipedia.org/wiki/Comparison_of_network_monitoring_systems)
+
+## Authentication
+* [FreeRADIUS](http://freeradius.org/)
+* [Freeradius](http://www.freeradius.net)
+* [WinRADIUS](http://winradius.eu)
+* [OpenAAA](http://openaaa.sourceforge.net/)

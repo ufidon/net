@@ -38,6 +38,16 @@ Online materials for CS220 - Network Fundamentals
 ## TFTP servers for Windows
 * [Open TFTP Server](https://sourceforge.net/p/tftp-server/wiki/Home/)
 
+
+## HTTP servers
+* [Apache](https://httpd.apache.org/)
+* [nginx](https://www.nginx.com/)
+
+## FTP servers
+* [FileZilla](https://filezilla-project.org/)
+* [acftp](https://sourceforge.net/projects/acftp/)
+* [SFTP servers](http://www.sftp.net/servers)
+
 ## email
 * email server: 
   * [hMailServer](https://www.hmailserver.com)

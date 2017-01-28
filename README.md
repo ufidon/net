@@ -31,7 +31,7 @@ Online materials for CS220 - Network Fundamentals
 * [A list of DHCP server softwares from wikipedia](https://en.wikipedia.org/wiki/Comparison_of_DHCP_server_software)
 
 ## DNS
-
+* [DNS over LAN](http://unix.stackexchange.com/questions/16890/how-to-make-a-machine-accessible-from-the-lan-using-its-hostname)
 * [A list of DNS server softwares from wikipedia](https://en.wikipedia.org/wiki/Comparison_of_DNS_server_software)
 
 # Application layer

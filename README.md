@@ -15,6 +15,9 @@ Online materials for CS220 - Network Fundamentals
 * [DD-Wrt](http://dd-wrt.com)
 * [OpenWrt](https://openwrt.org)
 
+## Router TL-WRT740Nv6
+* [Reset password](http://www.tp-link.com/us/faq-426.html)
+
 ## ARP softwares
 * [ARP Scannet](https://sourceforge.net/projects/arpscannet/)
 * [ARP AntiSpoofer](https://sourceforge.net/projects/arpantispoofer/)

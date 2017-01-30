@@ -64,6 +64,16 @@ Online materials for CS220 - Network Fundamentals
 * package capture:
   * [Win10pcap](http://www.win10pcap.org)
   * [Wireshark](https://www.wireshark.org/)
+  
+## WireShark
+Install wireshark on Ubuntu
+```bash
+$ sudo apt-get install wireshark
+$ sudo dpkg-reconfigure wireshark-common 
+$ sudo usermod -a -G wireshark $USER
+$ gnome-session-quit --logout --no-prompt
+```
+
 * wireless network detection
   * [NetStumbler](http://www.stumbler.net/)
   * [Vistumbler](https://www.vistumbler.net/)

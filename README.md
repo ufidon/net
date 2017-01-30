@@ -19,12 +19,13 @@ Online materials for CS220 - Network Fundamentals
 * [Reset password](http://www.tp-link.com/us/faq-426.html)
 * [Tftp secret of TL-WR740N](http://bkil.blogspot.hu/2014/12/tftp-secret-of-tl-wr740n-uncovered.html)
 * [Hidden TFTP of TP-Link routers](http://bkil.blogspot.com/2014/12/hidden-tftp-of-tp-link-routers.html)
+* [Installing OpenWrt via TFTP](https://wiki.openwrt.org/doc/howto/generic.flashing.tftp)
 
 ## ARP softwares
 * [ARP Scannet](https://sourceforge.net/projects/arpscannet/)
 * [ARP AntiSpoofer](https://sourceforge.net/projects/arpantispoofer/)
 * [A list of ARP softwares](http://www.findbestopensource.com/tagged/arp?start=10)
-* [Installing OpenWrt via TFTP](https://wiki.openwrt.org/doc/howto/generic.flashing.tftp)
+
 ## BOOTP server
 * [BOOTPd server](http://bootpdnis.sourceforge.net/)
 

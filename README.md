@@ -21,6 +21,11 @@ Online materials for CS220 - Network Fundamentals
 * [Hidden TFTP of TP-Link routers](http://bkil.blogspot.com/2014/12/hidden-tftp-of-tp-link-routers.html)
 * [Installing OpenWrt via TFTP](https://wiki.openwrt.org/doc/howto/generic.flashing.tftp)
 
+## Router NETGEAR R6300v2
+* [R6300v2 – Smart WiFi Router AC1750 Dual Band Gigabit](https://www.netgear.com/support/product/r6300v2)
+* [DD-Wrt for Netgear R6300 v2](http://www.dd-wrt.com/wiki/index.php/Netgear_R6300v2)
+* [OpenWrt for Netgear R6300 v2](https://wiki.openwrt.org/toh/netgear/netgear_r6300_v2)
+
 ## ARP softwares
 * [ARP Scannet](https://sourceforge.net/projects/arpscannet/)
 * [ARP AntiSpoofer](https://sourceforge.net/projects/arpantispoofer/)

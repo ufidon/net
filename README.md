@@ -43,6 +43,7 @@ Online materials for CS220 - Network Fundamentals
 
 ## DNS
 * [DNS over LAN](http://unix.stackexchange.com/questions/16890/how-to-make-a-machine-accessible-from-the-lan-using-its-hostname)
+* [How To Access Your Machines Using DNS Names with DD-WRT](http://www.howtogeek.com/69696/how-to-access-your-machines-using-dns-names-with-dd-wrt/)
 * [A list of DNS server softwares from wikipedia](https://en.wikipedia.org/wiki/Comparison_of_DNS_server_software)
 
 # Application layer

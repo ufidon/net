@@ -14,6 +14,7 @@ Online materials for CS220 - Network Fundamentals
 ## Open source routers
 * [DD-Wrt](http://dd-wrt.com)
 * [OpenWrt](https://openwrt.org)
+* [VyOS](https://vyos.io/)
 
 ## Router TL-WR740Nv6
 * [Reset password](http://www.tp-link.com/us/faq-426.html)
@@ -31,6 +32,14 @@ Online materials for CS220 - Network Fundamentals
 * [ARP AntiSpoofer](https://sourceforge.net/projects/arpantispoofer/)
 * [A list of ARP softwares](http://www.findbestopensource.com/tagged/arp?start=10)
 
+
+# Wireless Network
+* [Virtual Router - Wifi Hot Spot for Windows 8, Windows 7 and 2008 R2](https://virtualrouter.codeplex.com/)
+* [Virtual Router Plus](http://virtualrouterplus.com/)
+* [How to Turn Your Windows PC Into a Wi-Fi Hotspot](http://www.howtogeek.com/214080/how-to-turn-your-windows-pc-into-a-wi-fi-hotspot/)
+* [How to Turn Your Ubuntu Laptop into a Wireless Access Point](http://www.howtogeek.com/116409/how-to-turn-your-ubuntu-laptop-into-a-wireless-access-point/)
+* [Share an Internet Connection Between Wireless Machines with an Ad Hoc Network in Windows 7](http://www.howtogeek.com/howto/21943/share-an-internet-connection-between-wireless-machines-with-an-ad-hoc-network-in-windows-7/)
+* [What’s the Difference Between Ad-Hoc and Infrastructure Mode Wi-Fi?](http://www.howtogeek.com/180649/htg-explains-whats-the-difference-between-ad-hoc-and-infrastructure-mode/)
 
 # Application layer
 ## BOOTP server
@@ -88,6 +97,7 @@ $ gnome-session-quit --logout --no-prompt
 * wireless network detection
   * [NetStumbler](http://www.stumbler.net/)
   * [Vistumbler](https://www.vistumbler.net/)
+  * [Kismet Wireless](http://www.kismetwireless.net/)
   
 # Network monitoring and management tools
 * [Cacti](http://www.cacti.net)  

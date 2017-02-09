@@ -34,6 +34,9 @@ Online materials for CS220 - Network Fundamentals
 
 
 # Wireless Network
+* [How to Share Your Computers WiFi with other Ethernet Enabled Devices ](http://www.countrymilewifi.com/how-to-share-computers-wifi-with-ethernet-devices.aspx)
+* [How to Bridge an Internet Connection](http://www.wikihow.com/Bridge-an-Internet-Connection)
+* [How to set up and manage a Network Bridge connection on Windows 10](http://www.windowscentral.com/how-set-and-manage-network-bridge-connection-windows-10)
 * [Virtual Router - Wifi Hot Spot for Windows 8, Windows 7 and 2008 R2](https://virtualrouter.codeplex.com/)
 * [Virtual Router Plus](http://virtualrouterplus.com/)
 * [How to Turn Your Windows PC Into a Wi-Fi Hotspot](http://www.howtogeek.com/214080/how-to-turn-your-windows-pc-into-a-wi-fi-hotspot/)

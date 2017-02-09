@@ -111,3 +111,11 @@ $ gnome-session-quit --logout --no-prompt
 * [Freeradius](http://www.freeradius.net)
 * [WinRADIUS](http://winradius.eu)
 * [OpenAAA](http://openaaa.sourceforge.net/)
+
+# Network raw programming
+* [PACKETH](http://packeth.sourceforge.net/packeth/Home.html)
+* [Raw Ethernet Packet Sending](https://www.codeproject.com/articles/5292/raw-ethernet-packet-sending)
+* [System.Net.NetworkInformation Namespace](https://msdn.microsoft.com/en-us/library/system.net.networkinformation.aspx)
+* [WinPCAP](http://www.winpcap.org/)
+* [OpenFlow](http://archive.openflow.org/)
+* [Mininet](http://mininet.org/)

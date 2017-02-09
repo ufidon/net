@@ -32,6 +32,9 @@ Online materials for CS220 - Network Fundamentals
 * [ARP AntiSpoofer](https://sourceforge.net/projects/arpantispoofer/)
 * [A list of ARP softwares](http://www.findbestopensource.com/tagged/arp?start=10)
 
+## Connection testing
+* [To enable ICMP Echo Request for ICMPv4 and ICMPv6](https://technet.microsoft.com/en-us/library/cc749323(v=ws.10).aspx)
+* [How to enable ping response in windows 7?](https://answers.microsoft.com/en-us/windows/forum/windows_7-networking/how-to-enable-ping-response-in-windows-7/5aff5f8d-f138-4c9a-8646-5b3a99f1cae6)
 
 # Wireless Network
 * [How to Share Your Computers WiFi with other Ethernet Enabled Devices ](http://www.countrymilewifi.com/how-to-share-computers-wifi-with-ethernet-devices.aspx)

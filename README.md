@@ -49,6 +49,7 @@ Online materials for CS220 - Network Fundamentals
 
 # Terminals
 * [PuTTY](http://www.putty.org/)
+* [mRemoteNG](https://github.com/mRemoteNG)
 * [Tera Term](https://ttssh2.osdn.jp/)
 * [Terminals](https://terminals.codeplex.com/)
 * [dtelnet: A Free Telnet Client for Windows 16/32/64](http://dtelnet.sourceforge.net)

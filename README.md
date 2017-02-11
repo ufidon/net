@@ -47,6 +47,12 @@ Online materials for CS220 - Network Fundamentals
 * [Share an Internet Connection Between Wireless Machines with an Ad Hoc Network in Windows 7](http://www.howtogeek.com/howto/21943/share-an-internet-connection-between-wireless-machines-with-an-ad-hoc-network-in-windows-7/)
 * [What’s the Difference Between Ad-Hoc and Infrastructure Mode Wi-Fi?](http://www.howtogeek.com/180649/htg-explains-whats-the-difference-between-ad-hoc-and-infrastructure-mode/)
 
+# Terminals
+* [PuTTY](http://www.putty.org/)
+* [Tera Term](https://ttssh2.osdn.jp/)
+* [Terminals](https://terminals.codeplex.com/)
+* [dtelnet: A Free Telnet Client for Windows 16/32/64](http://dtelnet.sourceforge.net)
+
 # Application layer
 ## BOOTP server
 * [BOOTPd server](http://bootpdnis.sourceforge.net/)
@@ -124,5 +130,11 @@ $ gnome-session-quit --logout --no-prompt
 * [Raw Ethernet Packet Sending](https://www.codeproject.com/articles/5292/raw-ethernet-packet-sending)
 * [System.Net.NetworkInformation Namespace](https://msdn.microsoft.com/en-us/library/system.net.networkinformation.aspx)
 * [WinPCAP](http://www.winpcap.org/)
-* [OpenFlow](http://archive.openflow.org/)
+
+# Software defined network
+* [OpenFlow](https://www.opennetworking.org/)
 * [Mininet](http://mininet.org/)
+* [Open vSwitch](http://openvswitch.org/)
+* [The Fast Data Project](https://fd.io/)
+* [Open Daylight](https://www.opendaylight.org/)
+* [Flood light](http://www.projectfloodlight.org/)

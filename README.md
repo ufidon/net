@@ -35,6 +35,7 @@ Online materials for CS220 - Network Fundamentals
 ## Connection testing
 * [To enable ICMP Echo Request for ICMPv4 and ICMPv6](https://technet.microsoft.com/en-us/library/cc749323(v=ws.10).aspx)
 * [How to enable ping response in windows 7?](https://answers.microsoft.com/en-us/windows/forum/windows_7-networking/how-to-enable-ping-response-in-windows-7/5aff5f8d-f138-4c9a-8646-5b3a99f1cae6)
+* [Open Visual Traceroute](http://visualtraceroute.net/)
 
 # Wireless Network
 * [How to Share Your Computers WiFi with other Ethernet Enabled Devices ](http://www.countrymilewifi.com/how-to-share-computers-wifi-with-ethernet-devices.aspx)
@@ -53,6 +54,7 @@ Online materials for CS220 - Network Fundamentals
 * [Tera Term](https://ttssh2.osdn.jp/)
 * [Terminals](https://terminals.codeplex.com/)
 * [dtelnet: A Free Telnet Client for Windows 16/32/64](http://dtelnet.sourceforge.net)
+* [WinSCP](https://winscp.net/eng/index.php)
 
 # Application layer
 ## BOOTP server
@@ -69,6 +71,12 @@ Online materials for CS220 - Network Fundamentals
 * [How To Access Your Machines Using DNS Names with DD-WRT](http://www.howtogeek.com/69696/how-to-access-your-machines-using-dns-names-with-dd-wrt/)
 * [A list of DNS server softwares from wikipedia](https://en.wikipedia.org/wiki/Comparison_of_DNS_server_software)
 
+## SSH server
+* [freeSSHd](http://www.freesshd.com/)
+* [KpyM Telnet/SSH Server](http://www.kpym.com/2/kpym/index.htm)
+* [OpenSSH for Windows](https://github.com/PowerShell/Win32-OpenSSH/releases/)
+* [Installing SFTP/SSH Server on Windows using OpenSSH](https://winscp.net/eng/docs/guide_windows_openssh_server)
+* [OpenSSH](https://www.openssh.com/)
 
 ## TFTP servers for Windows
 * [Open TFTP Server](https://sourceforge.net/p/tftp-server/wiki/Home/)

@@ -147,3 +147,7 @@ $ gnome-session-quit --logout --no-prompt
 * [The Fast Data Project](https://fd.io/)
 * [Open Daylight](https://www.opendaylight.org/)
 * [Flood light](http://www.projectfloodlight.org/)
+
+# Raspberry Pi 3 Model 2
+* [How to set up a secure Raspberry Pi web server, mail server and Owncloud installation](https://www.pestmeester.nl/)
+* [Raspberry Pi Email Server](https://samhobbs.co.uk/raspberry-pi-email-server)

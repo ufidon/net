@@ -129,7 +129,7 @@ $ sudo usermod -a -G wireshark $USER
 $ gnome-session-quit --logout --no-prompt
 ```
 
-* wireless network detection
+# wireless network detection
   * [NetStumbler](http://www.stumbler.net/)
   * [Vistumbler](https://www.vistumbler.net/)
   * [Kismet Wireless](http://www.kismetwireless.net/)

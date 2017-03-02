@@ -71,12 +71,25 @@ Online materials for CS220 - Network Fundamentals
 * [How To Access Your Machines Using DNS Names with DD-WRT](http://www.howtogeek.com/69696/how-to-access-your-machines-using-dns-names-with-dd-wrt/)
 * [A list of DNS server softwares from wikipedia](https://en.wikipedia.org/wiki/Comparison_of_DNS_server_software)
 
+
+## Telnet server
+* [KpyM Telnet/SSH Server](http://www.kpym.com/2/kpym/index.htm)
+
+
 ## SSH server
 * [freeSSHd](http://www.freesshd.com/)
 * [KpyM Telnet/SSH Server](http://www.kpym.com/2/kpym/index.htm)
 * [OpenSSH for Windows](https://github.com/PowerShell/Win32-OpenSSH/releases/)
 * [Installing SFTP/SSH Server on Windows using OpenSSH](https://winscp.net/eng/docs/guide_windows_openssh_server)
 * [OpenSSH](https://www.openssh.com/)
+
+## SSH client
+* [WinSCP](https://winscp.net/eng/index.php)
+* [PuTTY](http://www.putty.org/)
+* [mRemoteNG](https://github.com/mRemoteNG)
+* [SuperPuTTY](https://github.com/jimradford/superputty)
+* [PuTTYtray](https://puttytray.goeswhere.com/)
+* [KiTTY](http://www.9bis.net/kitty/)
 
 ## TFTP servers for Windows
 * [Open TFTP Server](https://sourceforge.net/p/tftp-server/wiki/Home/)

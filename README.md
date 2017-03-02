@@ -56,6 +56,10 @@ Online materials for CS220 - Network Fundamentals
 * [dtelnet: A Free Telnet Client for Windows 16/32/64](http://dtelnet.sourceforge.net)
 * [WinSCP](https://winscp.net/eng/index.php)
 
+# Process tools for Windows
+* [Process Explorer](https://technet.microsoft.com/en-us/sysinternals/processexplorer)
+* [Autoruns for Windows](https://technet.microsoft.com/en-us/sysinternals/bb963902)
+
 # Application layer
 ## BOOTP server
 * [BOOTPd server](http://bootpdnis.sourceforge.net/)
@@ -119,6 +123,8 @@ Online materials for CS220 - Network Fundamentals
 * package capture:
   * [Win10pcap](http://www.win10pcap.org)
   * [Wireshark](https://www.wireshark.org/)
+* TCP connection viewer:
+  * [TCPView](https://technet.microsoft.com/en-us/sysinternals/tcpview)
   
 ## WireShark
 Install wireshark on Ubuntu

@@ -159,6 +159,19 @@ $ gnome-session-quit --logout --no-prompt
 * [System.Net.NetworkInformation Namespace](https://msdn.microsoft.com/en-us/library/system.net.networkinformation.aspx)
 * [WinPCAP](http://www.winpcap.org/)
 
+# Network programming
+* [Python: Internet Protocols and Support](https://pymotw.com/2/internet_protocols.html)
+* [Java: Trail: Custom Networking](https://docs.oracle.com/javase/tutorial/networking/TOC.html)
+* [Node.js Tutorial With Socket.io](http://danielnill.com/nodejs-tutorial-with-socketio)
+* [The Tenouk's Linux Socket (network) programming tutorial](http://www.tenouk.com/cnlinuxsockettutorials.html)
+* [Beej's Guide to Network Programming](http://beej.us/guide/bgnet/)
+* [Network Programming in the .NET Framework](https://msdn.microsoft.com/en-us/library/4as0wz7t(v=vs.110).aspx)
+* [Networking and Internet](https://msdn.microsoft.com/en-us/library/windows/desktop/ee663286(v=vs.85).aspx)
+* [Tutorials on 'Advanced' Winsock 2 Network Programming](http://www.winsocketdotnetworkprogramming.com/winsock2programming/)
+* [The Tenouk's Winsock](http://www.tenouk.com/cnwinsock2tutorials.html)
+* [Tutorials on .NET Windows Network Programming](http://www.winsocketdotnetworkprogramming.com/)
+
+
 # Software defined network
 * [OpenFlow](https://www.opennetworking.org/)
 * [Mininet](http://mininet.org/)

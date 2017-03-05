@@ -180,6 +180,24 @@ $ gnome-session-quit --logout --no-prompt
 * [Open Daylight](https://www.opendaylight.org/)
 * [Flood light](http://www.projectfloodlight.org/)
 
+# Network simulator
+* [GNS3](https://gns3.com/)
+* [OMNeT++](https://omnetpp.org/)
+* [ns-3](https://www.nsnam.org/)
+* [ns-2](http://nsnam.sourceforge.net/wiki/index.php/Main_Page)
+* [NetKit](http://wiki.netkit.org/index.php/Main_Page)
+* [Cloonix](http://cloonix.net/)
+* [NetMirage](https://crysp.uwaterloo.ca/software/netmirage/)
+* [Common Open Research Emulator](https://www.nrl.navy.mil/itd/ncs/products/core)
+* [IMUNES - Integrated Multiprotocol Network Emulator/Simulator](http://imunes.net/)
+* [LINE](https://wiki.epfl.ch/line/documents/line.html)
+* [marionet](http://www.marionnet.org/site/index.php/en/)
+* [ofnet](http://sdninsights.org/)
+* [psimulator](https://github.com/rkuebert/psimulator)
+* [Shadow](https://shadow.github.io/)
+* [eve](http://www.unetlab.com/)
+* [VNX](http://web.dit.upm.es/vnxwiki/index.php/Main_Page)
+
 # Raspberry Pi 3 Model 2
 * [How to set up a secure Raspberry Pi web server, mail server and Owncloud installation](https://www.pestmeester.nl/)
 * [Raspberry Pi Email Server](https://samhobbs.co.uk/raspberry-pi-email-server)

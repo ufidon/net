@@ -80,6 +80,12 @@ Online materials for CS220 - Network Fundamentals
 ## Telnet server
 * [KpyM Telnet/SSH Server](http://www.kpym.com/2/kpym/index.htm)
 
+## VNC - Virtual Network Computing
+* [TigerVNC](http://tigervnc.org/)
+* [TightVNC](http://www.tightvnc.com/download.php)
+* [VNC Open](https://archive.realvnc.com/download/open/)
+* [UltraVNC](https://sourceforge.net/projects/ultravnc/)
+
 
 ## SSH server
 * [freeSSHd](http://www.freesshd.com/)

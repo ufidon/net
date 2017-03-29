@@ -141,6 +141,10 @@ $ sudo dpkg-reconfigure wireshark-common
 $ sudo usermod -a -G wireshark $USER
 $ gnome-session-quit --logout --no-prompt
 ```
+Enable capturing without sudo
+```bash
+sudo setcap 'CAP_NET_RAW+eip CAP_NET_ADMIN+eip' /usr/sbin/dumpcap
+```
 
 # wireless network detection
   * [NetStumbler](http://www.stumbler.net/)

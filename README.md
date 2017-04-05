@@ -44,7 +44,7 @@ Online materials for CS220 - Network Fundamentals
 ## IP Layer
 * [Chrome Extension: IP Address and Domain Information](https://chrome.google.com/webstore/detail/ip-address-and-domain-inf/lhgkegeccnckoiliokondpaaalbhafoa?hl=en)
 * [Firefox extension: IP Address and Domain Information](https://addons.mozilla.org/en-US/firefox/addon/ip-address-and-domain-info/)
-* [Firefox extension: https://addons.mozilla.org/en-US/firefox/addon/worldip/]
+* [Firefox extension: WorldIP](https://addons.mozilla.org/en-US/firefox/addon/worldip/)
 * [Windows TCP/IP utilities](https://technet.microsoft.com/en-us/library/bb491012.aspx)
 * [Netsh](https://technet.microsoft.com/en-us/library/cc754516(v=ws.10).aspx)
 

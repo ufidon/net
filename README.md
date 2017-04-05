@@ -128,6 +128,7 @@ Online materials for CS220 - Network Fundamentals
 
 ## HTTP
 * [HTTPFox](https://addons.mozilla.org/en-Us/firefox/addon/httpfox/)
+* [HTTP Request](https://addons.mozilla.org/en-US/firefox/addon/httprequester/)
 
 ## FTP servers
 * [FileZilla](https://filezilla-project.org/)

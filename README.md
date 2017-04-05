@@ -111,6 +111,14 @@ Online materials for CS220 - Network Fundamentals
 * [Apache](https://httpd.apache.org/)
 * [nginx](https://www.nginx.com/)
 
+## Web browsers
+* [Firefox](https://www.mozilla.org)
+* [Chrome](https://www.google.com/chrome/)
+* [How to Change the Number of Simultaneous Downloads in Chrome?](http://smallbusiness.chron.com/change-number-simultaneous-downloads-chrome-68984.html)
+
+## HTTP
+* [HTTPFox](https://addons.mozilla.org/en-Us/firefox/addon/httpfox/)
+
 ## FTP servers
 * [FileZilla](https://filezilla-project.org/)
 * [acftp](https://sourceforge.net/projects/acftp/)

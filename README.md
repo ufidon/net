@@ -232,3 +232,5 @@ sudo setcap 'CAP_NET_RAW+eip CAP_NET_ADMIN+eip' /usr/sbin/dumpcap
 # Raspberry Pi 3 Model 2
 * [How to set up a secure Raspberry Pi web server, mail server and Owncloud installation](https://www.pestmeester.nl/)
 * [Raspberry Pi Email Server](https://samhobbs.co.uk/raspberry-pi-email-server)
+* [Enable userdir Apache module on Ubuntu Linux and other Debian based distributions](http://www.techytalk.info/enable-userdir-apache-module-ubuntu-debian-based-linux-distributions/)
+* [Apache Module mod_userdir](https://httpd.apache.org/docs/2.4/mod/mod_userdir.html)

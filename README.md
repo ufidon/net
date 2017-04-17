@@ -153,18 +153,22 @@ Online materials for CS220 - Network Fundamentals
   * [TCPView](https://technet.microsoft.com/en-us/sysinternals/tcpview)
   
 ## WireShark
-Install wireshark on Ubuntu
-```bash
-$ sudo apt-get install wireshark
-$ sudo dpkg-reconfigure wireshark-common 
-$ sudo usermod -a -G wireshark $USER
-$ gnome-session-quit --logout --no-prompt
-```
-Enable capturing without sudo
-```bash
-sudo setcap 'CAP_NET_RAW+eip CAP_NET_ADMIN+eip' /usr/sbin/dumpcap
-```
+* Install wireshark on Ubuntu
+	```bash
+	$ sudo apt-get install wireshark
+	$ sudo dpkg-reconfigure wireshark-common 
+	$ sudo usermod -a -G wireshark $USER
+	$ gnome-session-quit --logout --no-prompt
+	```
+	Enable capturing without sudo
+	```bash
+	sudo setcap 'CAP_NET_RAW+eip CAP_NET_ADMIN+eip' /usr/sbin/dumpcap
+	```
 
+* [Wireshark Labs on WikiUniversity](https://en.wikiversity.org/wiki/Wireshark)	
+* [WireShark Wikis](https://wiki.wireshark.org/FrontPage)
+* [WireShark Documents](https://www.wireshark.org/docs/)
+	
 # wireless network detection
   * [NetStumbler](http://www.stumbler.net/)
   * [Vistumbler](https://www.vistumbler.net/)
@@ -234,3 +238,4 @@ sudo setcap 'CAP_NET_RAW+eip CAP_NET_ADMIN+eip' /usr/sbin/dumpcap
 * [Raspberry Pi Email Server](https://samhobbs.co.uk/raspberry-pi-email-server)
 * [Enable userdir Apache module on Ubuntu Linux and other Debian based distributions](http://www.techytalk.info/enable-userdir-apache-module-ubuntu-debian-based-linux-distributions/)
 * [Apache Module mod_userdir](https://httpd.apache.org/docs/2.4/mod/mod_userdir.html)
+* [Ubuntu 16.04 / Debian 8: Install apache2 userdir and run web server for each user](https://www.hiroom2.com/2016/05/20/ubuntu-16-04-debian-8-install-apache2-userdir-and-run-web-server-for-each-user/)

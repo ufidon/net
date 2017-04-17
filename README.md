@@ -169,8 +169,6 @@ Online materials for CS220 - Network Fundamentals
 	sudo setcap 'CAP_NET_RAW+eip CAP_NET_ADMIN+eip' /usr/sbin/dumpcap
 	```
 
-
-	
 # wireless network detection
   * [NetStumbler](http://www.stumbler.net/)
   * [Vistumbler](https://www.vistumbler.net/)

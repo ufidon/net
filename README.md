@@ -153,6 +153,10 @@ Online materials for CS220 - Network Fundamentals
   * [TCPView](https://technet.microsoft.com/en-us/sysinternals/tcpview)
   
 ## WireShark
+* [Wireshark Labs on WikiUniversity](https://en.wikiversity.org/wiki/Wireshark)	
+* [WireShark Wikis](https://wiki.wireshark.org/FrontPage)
+* [WireShark Documents](https://www.wireshark.org/docs/)
+
 * Install wireshark on Ubuntu
 	```bash
 	$ sudo apt-get install wireshark
@@ -165,9 +169,7 @@ Online materials for CS220 - Network Fundamentals
 	sudo setcap 'CAP_NET_RAW+eip CAP_NET_ADMIN+eip' /usr/sbin/dumpcap
 	```
 
-* [Wireshark Labs on WikiUniversity](https://en.wikiversity.org/wiki/Wireshark)	
-* [WireShark Wikis](https://wiki.wireshark.org/FrontPage)
-* [WireShark Documents](https://www.wireshark.org/docs/)
+
 	
 # wireless network detection
   * [NetStumbler](http://www.stumbler.net/)

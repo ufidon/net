@@ -140,6 +140,7 @@ Online materials for CS220 - Network Fundamentals
 * email server: 
   * [hMailServer](https://www.hmailserver.com)
   * [iRedMail](http://www.iredmail.org/)
+  * [SMTP authentication commands](https://www.ndchost.com/wiki/mail/test-smtp-auth-telnet)
   
 * web mail:
   * [SquirrelMail](http://squirrelmail.org)

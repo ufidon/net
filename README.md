@@ -154,7 +154,8 @@ Online materials for CS220 - Network Fundamentals
   * [TCPView](https://technet.microsoft.com/en-us/sysinternals/tcpview)
   
 ## WireShark
-* [Wireshark Labs on WikiUniversity](https://en.wikiversity.org/wiki/Wireshark)	
+* [Wireshark Labs on WikiUniversity](https://en.wikiversity.org/wiki/Wireshark)
+* [WireShark Labs for Computer Networking: A Top-Down Approach, 7th ed.](http://gaia.cs.umass.edu/wireshark-labs/)	
 * [WireShark Wikis](https://wiki.wireshark.org/FrontPage)
 * [WireShark Documents](https://www.wireshark.org/docs/)
 

@@ -242,3 +242,13 @@ Online materials for CS220 - Network Fundamentals
 * [Enable userdir Apache module on Ubuntu Linux and other Debian based distributions](http://www.techytalk.info/enable-userdir-apache-module-ubuntu-debian-based-linux-distributions/)
 * [Apache Module mod_userdir](https://httpd.apache.org/docs/2.4/mod/mod_userdir.html)
 * [Ubuntu 16.04 / Debian 8: Install apache2 userdir and run web server for each user](https://www.hiroom2.com/2016/05/20/ubuntu-16-04-debian-8-install-apache2-userdir-and-run-web-server-for-each-user/)
+
+403 Access denied for user public_html: 
+
+1. folder along the path are readable and EXECUTABLE for others
+2. files inside public_html are readable for others
+```bash
+chmod o+x /home/usrdir /home/usrdir/public_html 
+chmod -R o+r /home/usrdir/public_html/*
+```
+

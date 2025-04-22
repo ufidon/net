@@ -16,6 +16,8 @@ Tentative topics:
   - [CMPSCI 453: Computer Networks](http://www-edlab.cs.umass.edu/cs453/)
 - [Computer Networks 6e](https://computernetworksbook.com/)
 - [Foundations of Modern Networking: SDN, NFV, QoE, IoT, and Cloud](http://williamstallings.com/Network/)
+- [Computer Networks and Internets 6e](https://netbook.cs.purdue.edu/)
+  - [Books on Computer Networking](https://www.cs.purdue.edu/homes/comer/netbooks.html)
 - [TCP/IP Illustrated](http://www.kohala.com/start/)
 - [Computer & Internet Security: A Hands-on Approach](https://seedsecuritylabs.org)
 

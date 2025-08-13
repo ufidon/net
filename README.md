@@ -9,10 +9,11 @@ Tentative topics:
 - [Module 5: The Network Layer: the Control Plane](./lectures/mod5/README.md)
 - [Module 6: The Link Layer ](./lectures/mod6/README.md)
 - [Module 7: Wireless and Mobile Networks](./lectures/mod7/README.md)
+- [Module 8: Network Security](./lectures/mod8/README.md)
 
 
 # Reference textbooks
-- [Computer Networking: a Top Down Approach 8th: CNTD8](https://gaia.cs.umass.edu/kurose_ross/index.php)
+- [Computer Networking: a Top Down Approach: CNTD8](https://gaia.cs.umass.edu/kurose_ross/index.php)
   - [CMPSCI 453: Computer Networks](http://www-edlab.cs.umass.edu/cs453/)
 - [Computer Networks 6e](https://computernetworksbook.com/)
 - [Foundations of Modern Networking: SDN, NFV, QoE, IoT, and Cloud](http://williamstallings.com/Network/)
@@ -36,6 +37,8 @@ Tentative topics:
   - [The Go Programming Language](https://github.com/adonovan/gopl.io)
 
 # Simulators
+- [Cisco Packet Tracer](https://www.netacad.com/cisco-packet-tracer)
+  - [full tutorial](https://youtube.com/playlist?list=PLVFyjfF2Drdt9hXs37KTPTIqtNVCXFfOG)
 - [Mininet](http://docs.mininet.org/)
 - [Gini5](https://citelab.github.io/gini5/)
   - [source](https://github.com/citelab/gini5)

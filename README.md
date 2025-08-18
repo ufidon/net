@@ -45,6 +45,10 @@ Tentative topics:
 - [GNS3](https://www.gns3.com/)
   - [source](https://github.com/GNS3)
 
+# Certifications
+- [Cisco Certified Network Associate (CCNA)](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html)
+  - [Free CCNA Learning Resources](./ccna/README.md)
+
 
 # Online resources
 - [Socket Programming in Python](https://realpython.com/python-sockets/)

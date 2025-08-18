@@ -24,3 +24,5 @@
 * [Enterprise Networking, Security, and Automation (ENSA)](https://www.netacad.com/courses/networking/ccna-enterprise-networking-security-automation)
   👉 The third part, focusing on WAN, network automation, and security — completing the CCNA curriculum.
 
+### 3. **Other resources**
+- [Free CCNA v1.1 200-301 Complete Course 2025 by Jeremy's IT Lab](https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ)

@@ -36,18 +36,6 @@ Tentative topics:
   - [2e](https://github.com/Apress/network-prog-with-go-2e)
   - [The Go Programming Language](https://github.com/adonovan/gopl.io)
 
-# Simulators
-- [Cisco Packet Tracer](https://www.netacad.com/cisco-packet-tracer)
-  - [full tutorial](https://youtube.com/playlist?list=PLVFyjfF2Drdt9hXs37KTPTIqtNVCXFfOG)
-- [Mininet](http://docs.mininet.org/)
-- [Gini5](https://citelab.github.io/gini5/)
-  - [source](https://github.com/citelab/gini5)
-- [GNS3](https://www.gns3.com/)
-  - [source](https://github.com/GNS3)
-
-# Certifications
-- [Cisco Certified Network Associate (CCNA)](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html)
-  - [Free CCNA Learning Resources](./ccna/README.md)
 
 
 # Online resources

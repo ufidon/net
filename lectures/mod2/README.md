@@ -74,3 +74,28 @@ ipconfig /flushdns
 dig gmail.com MX
 sudo systemd-resolve --flush-caches
 ```
+
+## Network protocol analyzers
+- [TCPdump & libPcap](https://www.tcpdump.org/)
+- [Wireshark](https://www.wireshark.org/)
+
+## GEO-IP
+- [Wireshark GeoIP - Map IP Addresses to Physical Locations](https://youtu.be/4UiHf-_RI6o)
+  - [How to use geoIP?](https://wiki.wireshark.org/HowToUseGeoIP)
+- [ipdata](https://ipdata.co/)
+- *Access IP information with Linux commands*
+  ```bash
+  # 1. install tools
+  sudo apt update
+  sudo apt install whois dnsutils geoip-bin jq curl 
+  
+  # needs GeoLite2 free DB from MaxMind
+  sudo apt install mmdb-bin
+
+  # 2. usage
+  whois 1.1.1.1 | egrep  "OrgName|origin"
+  geoiplookup 1.1.1.1
+  curl ipinfo.io/1.1.1.1
+  curl ip-api.com/json/1.1.1.1 | jq '.country, .org, .as'
+  mmdblookup --file GeoLite2-City.mmdb --ip 8.8.8.8
+  ```

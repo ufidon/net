@@ -78,6 +78,8 @@ sudo systemd-resolve --flush-caches
 ## Network protocol analyzers
 - [TCPdump & libPcap](https://www.tcpdump.org/)
 - [Wireshark](https://www.wireshark.org/)
+  - [How to decode TLS?](./decodeTLS.md)
+  - [How to disable HTTP auto-upgrade?](./disableHSTS.md)
 
 ## GEO-IP
 - [Wireshark GeoIP - Map IP Addresses to Physical Locations](https://youtu.be/4UiHf-_RI6o)

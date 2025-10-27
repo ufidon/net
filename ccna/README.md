@@ -25,4 +25,6 @@
   👉 The third part, focusing on WAN, network automation, and security — completing the CCNA curriculum.
 
 ### 3. **Other resources**
+- [Free CCNA Study Guide – CCNA Book](https://www.howtonetwork.com/free-ccna-study-guide-ccna-book/)
 - [Free CCNA v1.1 200-301 Complete Course 2025 by Jeremy's IT Lab](https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ)
+
